@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kareem Mohamed</h1>
 <h3 align="center">A passionate Mobile Application Developer</h3>
 
-- 💬 Ask me about **I am Kareem Mohamed from Egypt
+- ⚡ Info about me **I am Kareem Mohamed from Egypt
 -  I am a passionate mobile app developer
 -  I am an intelligent person who loves learning, exploring, and benefiting from new information
 -  I have a positive outlook on life and try to find the positive side of things
