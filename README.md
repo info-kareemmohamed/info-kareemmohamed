@@ -7,8 +7,8 @@
 -  I have a positive outlook on life and try to find the positive side of things
 -  I possess a degree of curiosity and interest in knowing more about things and people around my
 -  I have a high level of analysis and logical thinking and enjoy working on problem-solving and challenges
--  I can communicate effectively and politely, both in writing and in speech
--  **
+-  I can communicate effectively and politely, both in writing and in speech **
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
